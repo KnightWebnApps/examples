@@ -123,7 +123,7 @@ Start by developing your own plugin, you can follow the official docs [here](htt
 
 Then simply ask for your todos.
 
-![Screenshot 2023-07-09 at 9.54.19 AM.png](Using%20SvelteKit%20to%20build%20your%20ChatGPT%20Plugin%20Endpo%20ae02db0801c2462fb788812da661b195/Screenshot_2023-07-09_at_9.54.19_AM.png)
+![Screenshot 2023-07-09 at 9.54.19 AM.png](testing-screenshot.png)
 
 ### Next Steps
 
